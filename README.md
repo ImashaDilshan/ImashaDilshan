@@ -4,7 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imashadilshan&label=Profile%20views&color=0e75b6&style=flat" alt="imashadilshan" /> </p>
 
 ---
-
+<p align="right">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="280" height="120"/>
 
 - 🌱 I’m currently learning **Python**
 
