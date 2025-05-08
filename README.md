@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Imasha Dilshan</h1>
 <h2 align="center">A passionate Fullstack developer from Srilanka</h2>
 
-<p align="center"
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=imashadilshan&label=Profile%20views&color=0e75b6&style=flat" alt="imashadilshan" /> </p>
 
 ---
