@@ -5,7 +5,7 @@
 
 ---
 <p align="right">
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="280" height="120"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="250" height="100"/>
 
 - 🌱 I’m currently learning **Python**
 
