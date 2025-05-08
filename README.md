@@ -1,9 +1,14 @@
+<p align="center">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="80" height="60"/> </p>
+
 <h1 align="center">Hi 👋, I'm Imasha Dilshan</h1>
 <h2 align="center">A passionate Fullstack developer from Srilanka</h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imashadilshan&label=Profile%20views&color=0e75b6&style=flat" alt="imashadilshan" /> </p>
+<p align="center"
+  <img src="https://komarev.com/ghpvc/?username=imashadilshan&label=Profile%20views&color=0e75b6&style=flat" alt="imashadilshan" /> </p>
 
 ---
+
 <p align="right">
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="300" height="100"/>
 
