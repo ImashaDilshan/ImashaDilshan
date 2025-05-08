@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Imasha Dilshan</h1>
 <h3 align="center">A passionate fullstack developer from Srilanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imashadilshan&label=Profile%20views&color=0e75b6&style=flat" alt="imashadilshan" /> </p>
+---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imashadilshan&label=Profile%20views&color=0e75b6&style=flat" alt="imashadilshan" /> </p>
 
 - 📫 How to reach me **imashadilshan1080@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+  ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
