@@ -1,13 +1,21 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Imasha%20Dilshan%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=18" width="100%"/>
-
-<!-- Animated Role Ticker (forward + reverse) -->
+<!-- ✅ LATEST capsule-render type: "shark" (newest type as of 2025) -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Hi%20There!%20I'm%20Imasha%20Dilshan%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Software%20Engineer&descAlignY=75&descSize=20&descColor=38d9a9" width="100%"/>
 
 <br/>
 
-<!-- Profile Views Badge -->
+<!-- Forward & Reverse Typing Animation for role title -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=38D9A9&center=true&vCenter=true&width=620&lines=⚡+Full+Stack+Software+Engineer;🚀+Full+Stack+Software+Engineer;💻+Full+Stack+Software+Engineer;🔥+Full+Stack+Software+Engineer;✨+Full+Stack+Software+Engineer" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Badges Row -->
+<img src="https://komarev.com/ghpvc/?username=imashadilshan&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/imashadilshan?label=Followers&style=for-the-badge&color=38d9a9&labelColor=0d1117" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To%20Work-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Open To Work"/>
 
 </div>
 
@@ -15,15 +23,20 @@
 
 ## 🧑‍💻 About Me
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 class SoftwareEngineer:
     def __init__(self):
         self.name       = "Imasha Dilshan"
         self.role       = "Full Stack Software Engineer"
         self.location   = "Sri Lanka 🇱🇰"
-        self.skills     = ["React", "Next", "Node", "Java", "JavaScript"]
+        self.skills     = ["React", "Java", "Spring Boot", "Docker", "Kubernetes"]
         self.databases  = ["MongoDB", "PostgreSQL", "MySQL"]
-        self.tools      = ["Git", "Postman", "Docker", "AWS", "OpenAI"]
-        self.open_to    = ["Collaborations", "Remote Work", "Onsite"]
+        self.tools      = ["Git", "Postman", "Linux", "Arduino", "MATLAB"]
+        self.open_to    = ["Collaborations", "Remote Work", "Open Source"]
+        self.fun_fact   = "I automated my morning coffee routine ☕🤖"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something awesome together 🚀")
@@ -50,20 +63,17 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Row 1: Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind&theme=dark" />
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" /><br/><br/>
 
-<br/><br/>
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=java,spring,cs,php&theme=dark" /><br/><br/>
 
-<!-- Row 2: Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,spring,mongodb,mysql,postgres,&theme=dark" />
+<!-- Databases & DevOps -->
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,kubernetes&theme=dark" /><br/><br/>
 
-<br/><br/>
-
-<!-- Row 3: Databases & DevOps -->
-<img src="https://skillicons.dev/icons?i=git,docker,postman,aws,kubernetes&theme=dark" />
-
-<br/><br/>
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,linux,postman,arduino&theme=dark" />
 
 </div>
 
@@ -84,6 +94,15 @@ me.say_hi()
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=imashadilshan&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+
+</div>
+
+---
 
 ## 🎯 Contribution Graph
 
@@ -103,6 +122,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<!-- ✅ LATEST capsule-render type: "blur" for footer (newest type) -->
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=footer&reversal=true&text=Thanks%20for%20visiting!&fontSize=28&fontColor=38d9a9&fontAlignY=55" width="100%"/>
 
 </div>
