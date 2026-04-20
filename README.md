@@ -4,14 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Imasha%20Dilshan%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Animated Role Ticker (forward + reverse) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=38D9A9&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer+⚡;Full+Stack+Software+Engineer+🚀;Full+Stack+Software+Engineer+💻;Full+Stack+Software+Engineer+🔥" alt="Typing SVG" />
 
 <br/>
 
 <!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=imashadilshan&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/imashadilshan?label=Followers&style=for-the-badge&color=38d9a9&labelColor=0d1117" alt="Followers"/>
 
 </div>
 
@@ -28,10 +24,10 @@ class SoftwareEngineer:
         self.name       = "Imasha Dilshan"
         self.role       = "Full Stack Software Engineer"
         self.location   = "Sri Lanka 🇱🇰"
-        self.skills     = ["React", "Java", "Spring Boot", "Docker", "Kubernetes"]
+        self.skills     = ["React", "Next", "Node", "Java", "JavaScript"]
         self.databases  = ["MongoDB", "PostgreSQL", "MySQL"]
-        self.tools      = ["Git", "Postman", "Linux", "Arduino", "MATLAB"]
-        self.open_to    = ["Collaborations", "Remote Work", "Open Source"]
+        self.tools      = ["Git", "Postman", "Docker", "AWS", "OpenAI"]
+        self.open_to    = ["Collaborations", "Remote Work", "Onsite"]
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something awesome together 🚀")
@@ -64,7 +60,7 @@ me.say_hi()
 <br/><br/>
 
 <!-- Row 2: Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,java,spring,mongodb,mysql,postgres,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,spring,mongodb,mysql,postgres,&theme=dark" />
 
 <br/><br/>
 
