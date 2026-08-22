@@ -55,12 +55,12 @@ me.say_hi()
 <div align="center">
 
 <!-- Row 1: Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,go&theme=dark" />
 
 <br/><br/>
 
 <!-- Row 2: Backend -->
-<img src="https://skillicons.dev/icons?i=python,java,nodejs,spring,mongodb,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,nest,spring,mongodb,mysql,postgres&theme=dark" />
 
 <br/><br/>
 
